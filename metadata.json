@@ -1,0 +1,5 @@
+{
+  "name": "PDF Data Extractor",
+  "description": "Upload a PDF, specify the data you want to extract using Gemini, and download the results as a CSV file.",
+  "requestFramePermissions": []
+}
